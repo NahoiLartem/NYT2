@@ -22,7 +22,9 @@ Here is what each R file contains:
 A bug might occur due to not changing the session's working directory to the source file location. This can be done by Session > Set Working Directory > To Source File Location from R-Studio.
 
 ## Here are some demo pictures of the App
-
+![](./pics/pic_1.png)
+![](./pics/pic_2.png)
+![](./pics/pic_3.png)
 
 
  
