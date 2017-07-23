@@ -1,5 +1,5 @@
-## NYC GREEN TAXI
-# Data visualization in R shiny for the NYC green taxi dataset
+# NYC GREEN TAXI
+## Data visualization in R shiny for the NYC green taxi dataset
 ![](./pics/one.png)
 
  Shiny is a web application framework for R and it's usually run from R studio.
