@@ -1,4 +1,4 @@
-## NYC-green-taxi-
+## NYC GREEN TAXI
 # Data visualization in R shiny for the NYC green taxi dataset
 
  Shiny is a web application framework for R and it's usually run from R studio.
@@ -22,6 +22,5 @@ Here is what each R file contains:
 A bug might occur due to not changing the session's working directory to the source file location. This can be done by Session > Set Working Directory > To Source File Location from R-Studio.
 Here are some demo pictures of the App
 
-In the end final app should look something like this:
 
  
