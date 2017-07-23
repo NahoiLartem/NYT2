@@ -1,11 +1,12 @@
-# NYC-green-taxi-
-Data visualization in R shiny for the NYC green taxi dataset
+## NYC-green-taxi-
+# Data visualization in R shiny for the NYC green taxi dataset
 
  Shiny is a web application framework for R and it's usually run from R studio.
 First, you will need to have R and R-Studio installed. In addition, you will also need the following packages which can be installed from the R studio console.
 -  install.packages('shiny')
 -  install.packages('leaflet')
--  install.packages('shinydashboard') ● install.packages('shinythemes')
+-  install.packages('shinydashboard')  
+-  install.packages('shinythemes')
 -  install.packages('highcharter')
 -  install.packages('data.table')
 
@@ -17,7 +18,7 @@ Here is what each R file contains:
 -  Server: This contains all the backend code.
 -  Ui: This contains all the user interface code.
 
-Technical Issue
+# Technical Issue
 A bug might occur due to not changing the session's working directory to the source file location. This can be done by Session > Set Working Directory > To Source File Location from R-Studio.
 Here are some demo pictures of the App
 
