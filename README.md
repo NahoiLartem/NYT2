@@ -2,7 +2,7 @@
 > #### This is Data visualization script in R shiny for the [NYC green taxi dataset](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 ![](./pics/one.png)
 
- Shiny is a web application framework for R and it's usually run from R studio.
+Shiny is a web application framework for R and it's usually run from R studio.
  
 First, you will need to have R and R-Studio installed. In addition, you will also need the following packages which can be installed from the R studio console.
 > -  install.packages('shiny')
@@ -21,7 +21,7 @@ Here is what each R file contains:
 > -  Ui: This contains all the user interface code.
 
 ### Technical Issue
-A bug might occur due to not changing the session's working directory to the source file location. This can be done by Session > Set Working Directory > To Source File Location from R-Studio.
+> A bug might occur due to not changing the session's working directory to the source file location. This can be done by Session > Set Working Directory > To Source File Location from R-Studio.
 
 ### Here are other demo pictures of the App
 ![](./pics/two.png)
