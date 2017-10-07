@@ -4,7 +4,7 @@
 
 Shiny is a web application framework for R and it's usually run from R studio.
  
-First, you will need to have R and R-Studio installed. In addition, you will also need the following packages which can be installed from the R studio console.
+First, you will need to have R and R-Studio installed. In addition, you will also need the following packages which can be installed through the R studio console.
 > -  install.packages('shiny')
 > - install.packages('leaflet')
 > - install.packages('shinydashboard')  
