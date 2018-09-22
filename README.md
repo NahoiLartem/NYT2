@@ -2,7 +2,7 @@
 > #### This is Data visualization script in R shiny for the [NYC green taxi dataset](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 ![](./pics/one.png)
 
-Shiny is a web application framework for R and it's usually run from R studio.
+Shiny is a web application in R and usually run from R studio.
  
 First, you will need to have R and R-Studio installed. In addition, you will also need the following packages which can be installed through the R studio console.
 > -  install.packages('shiny')
